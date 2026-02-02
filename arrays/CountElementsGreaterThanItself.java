@@ -12,6 +12,7 @@
 // 3. Iterate and get the number of elements that are not equal to maximum element.
 // 4. Increment the count.
 
+
 // Code:
 
 package arrays;
